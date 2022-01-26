@@ -1,5 +1,15 @@
 <!DOCTYPE html>
-
-dasfdas
-hello
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ITMD-361 Internet Technologies and Web Design</title>
+</head>
+<body>
+  <p>&amp; Hello world. This is my first website!</p>
+  <p>Hi, I am Kevin, my major ITM, im in my third year and I have always found computers and coding fascinating! I worked in the truck industry for years and became bored
+  and decided to continue my education and passion with computers (I'll be 30 this february), I have a little experience with python, and did some GBA rom hacks with ips patching as a kid and have built
+  a few emulation devices with rasberry Pi's. I've seen a few games built on java and even html(one that comes to mind is Crosscode made with HTML5) 
+  this class is a step in the direction of that dream/hobby.
+ </p>
+</body>
+</html>
